@@ -53,6 +53,7 @@
 <div class="container">
 
     <!-- Server Info -->
+<!--
     <div class="info-card">
         <h3>🌐 Server Side Information</h3>
         <hr>
@@ -63,15 +64,17 @@
             out.println("<p><b>Server IP Address:</b> " + ip + "</p>");
         %>
     </div>
+-->
 
     <!-- Client Info -->
+<!--
     <div class="info-card">
         <h3>💻 Client Side Information</h3>
         <hr>
         <p><b>Client IP Address:</b> <%= request.getRemoteAddr() %></p>
         <p><b>Client Host Name:</b> <%= request.getRemoteHost() %></p>
     </div>
-
+-->
     <!-- Contact Info -->
     <div class="info-card text-center">
         <img src="images/ns.jpg" alt="nihalvardh" width="120" class="mb-3 rounded-circle shadow">
