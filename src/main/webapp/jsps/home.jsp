@@ -81,13 +81,13 @@
         <p><b>Email:</b> <a href="mailto:nihalnarrav@gmail.com">nihalnarrav@gmail.com</a></p>
         <a href="mailto:nihalnarrav@gmail.com" class="btn btn-primary mt-2">📧 Mail to Nihalvardh games</a>
     </div>
-
+<!--
     <!-- Service Links -->
     <div class="info-card text-center">
         <h4>⚙️ Our Services</h4>
         <p><a href="services/employee/getEmployeeDetails" class="btn btn-success">Get Employee Details</a></p>
     </div>
-
+-->
 </div>
 
 <footer>
