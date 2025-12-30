@@ -76,9 +76,11 @@
     <div class="info-card text-center">
         <img src="images/ns.jpg" alt="nihalvardh" width="120" class="mb-3 rounded-circle shadow">
         <h4>NihalVardh</h4>
+<!--
         <p><b>Address:</b> Martha Halli, Bangalore</p>
         <p><b>Phone:</b> +91-xxxxxxxxxxx</p>
         <p><b>Email:</b> <a href="mailto:nihalnarrav@gmail.com">nihalnarrav@gmail.com</a></p>
+-->
         <a href="mailto:nihalnarrav@gmail.com" class="btn btn-primary mt-2">📧 Mail to Nihalvardh games</a>
     </div>
  <!-- Service Links -->
